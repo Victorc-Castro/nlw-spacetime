@@ -2,7 +2,7 @@
   <img src=".github/preview.png" alt="Demonstração do projeto" width="100%" />
   </p>
 
-  ## 💻 Projetoe
+  ## 💻 Projeto
   Esse é um projeto WEB responsivo de uma cápsula do tempo para exibir memórias em uma linha do tempo.
 
   ## 🚀 Tecnologias 
